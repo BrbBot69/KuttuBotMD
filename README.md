@@ -23,7 +23,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/GouthamSER/KuttuBotMD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -36,7 +36,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 
 <div align="center">
-  <a href="https://prepared-armadillo-rollmodels1122-6c56072c.koyeb.app/" target="_blank">
+  <a href="https://qrkuttubotmd.koyeb.app/" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
