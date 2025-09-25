@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KuttuBot-MD'}*  
-   Version: *${settings.version || 'v1'}*
-   by ${settings.botOwner || '‎Gᴏᴜᴛʜᴀᴍ Jᴏsʜ 么'}
+   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   Version: *${settings.version || '2.0.5'}*
+   by ${settings.botOwner || 'Mr Unique Hacker'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -34,6 +34,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .trt <text> <lang>
 ║ ➤ .ss <link>
 ║ ➤ .jid
+║ ➤ .url
 ╚═══════════════════╝ 
 
 ╔═══════════════════╗
@@ -52,25 +53,35 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .clear
 ║ ➤ .tag <message>
 ║ ➤ .tagall
+║ ➤ .tagnotadmin
+║ ➤ .hidetag <message>
 ║ ➤ .chatbot
 ║ ➤ .resetlink
 ║ ➤ .antitag <on/off>
 ║ ➤ .welcome <on/off>
 ║ ➤ .goodbye <on/off>
+║ ➤ .setgdesc <description>
+║ ➤ .setgname <new name>
+║ ➤ .setgpp (reply to image)
 ╚═══════════════════╝
 
 ╔═══════════════════╗
 🔒 *Owner Commands*:
-║ ➤ .mode
-║ ➤ .autostatus
+║ ➤ .mode <public/private>
 ║ ➤ .clearsession
 ║ ➤ .antidelete
 ║ ➤ .cleartmp
 ║ ➤ .update
+║ ➤ .settings
 ║ ➤ .setpp <reply to image>
-║ ➤ .autoreact
+║ ➤ .autoreact <on/off>
+║ ➤ .autostatus <on/off>
+║ ➤ .autostatus react <on/off>
 ║ ➤ .autotyping <on/off>
 ║ ➤ .autoread <on/off>
+║ ➤ .anticall <on/off>
+║ ➤ .pmblocker <on/off/status>
+║ ➤ .pmblocker setmsg <text>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -85,6 +96,8 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .meme
 ║ ➤ .take <packname> 
 ║ ➤ .emojimix <emj1>+<emj2>
+║ ➤ .igs <insta link>
+║ ➤ .igsc <insta link>
 ╚═══════════════════╝  
 
 ╔═══════════════════╗
@@ -114,6 +127,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .gemini <question>
 ║ ➤ .imagine <prompt>
 ║ ➤ .flux <prompt>
+║ ➤ .sora <prompt>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -157,6 +171,7 @@ async function helpCommand(sock, chatId, message) {
 📥 *Downloader*:
 ║ ➤ .play <song_name>
 ║ ➤ .song <song_name>
+║ ➤ .spotify <query>
 ║ ➤ .instagram <link>
 ║ ➤ .facebook <link>
 ║ ➤ .tiktok <link>
@@ -224,7 +239,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KuttuBot MD',
+                        newsletterName: 'KnightBot MD',
                         serverMessageId: -1
                     }
                 }
@@ -238,7 +253,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KuttuBot MD by ‎Gᴏᴜᴛʜᴀᴍ Jᴏsʜ 么',
+                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
                         serverMessageId: -1
                     } 
                 }
