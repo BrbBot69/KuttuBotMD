@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@killadi_chandu"> 
-    <img src="https://github.com/GouthamSER/KuttuBotMD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://telegra.ph/file/23f226130bfdc3ef0baad.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -42,7 +42,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 </div>
 
 
-### After getting creds.json file, upload it to session folder
+###  ! iMPT ! : After getting creds.json file, upload it to session folder
 
 ---
 
@@ -67,14 +67,11 @@ For further customization and setup guidance, click the button below:
 </a>
 </div>
 
-### Join Us
+### Ask Any Doubt
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  <a href="https://wa.me/917034898741">
+    <img src="https://img.shields.io/badge/Ask%20Whatsapp-0078E7?style=for-the-badge&logo=whatsapp&logoColor=green" alt="Ask Whatsapp"/>
   </a>
 </div>
 
@@ -94,7 +91,7 @@ For further customization and setup guidance, click the button below:
 
 ## 📖 About
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The Kuttu WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -107,52 +104,25 @@ It is lightweight and can be easily customized to add more commands as per your 
 - Node.js installed on your system
 - Git installed (for cloning the repository)
 
-### Step-by-Step Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
-
-    ```bash
-    node index.js
-    ```
-
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
-
----
-
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/GouthamSER/KuttuBotMD/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/GouthamSER/KuttuBotMD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/GouthamSER/KuttuBotMD)!
 
 
-## Credits
+## Thank You to
 
 - [Professor](https://github.com/mruniquehacker)
 - [Baileys](https://github.com/adiwajshing/Baileys)
@@ -182,7 +152,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Professor. All rights reserved.
+Copyright (c) 2025 GouthamSER. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
